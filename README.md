@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MontaserBallh Harfoush</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/montserballh2003/montserballh2003/main/assets/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💼 I work as a web developer.
 - 🎓 I graduated in 2025 from the Department of Technology and Applied Sciences, Al-Quds Open University.
